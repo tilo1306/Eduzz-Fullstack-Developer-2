@@ -6,12 +6,17 @@ Eduzz Fullstack Developer 2 repositório.
   <h3 align="center">Jogo da memória Genius</h3>
   <img align="center" alt="genius" src="./jogo de memória estilo Genius/assets/img/jogo.gif"> 
 </div>
-
+<div>
+  <h3 align="center">Criando um front-end totalmente componentizado na prática com ReactJs</h3>
+  <img align="center" alt="reactjs" src="./frontend com react js/img/reactjs.gif"> 
+</div>
 ## :rocket: Tecnologias
 
 - ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   >
 - ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  >
+- ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   >
 
 ## Contato
